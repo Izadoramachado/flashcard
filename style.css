@@ -1,5 +1,5 @@
 body{
-    background-color: bisque;
+    background-color: rgb(236, 4, 159);
     }
     
     #container {
@@ -20,7 +20,7 @@ body{
     }
     
     .cartao__conteudo h3 {
-        background-color: tomato;
+        background-color: rgb(255, 71, 240);
         text-align: left;
         padding: 0.5rem;
         position: absolute;
