@@ -8,24 +8,22 @@ body{
     
     .cartao{
     margin: 1rem 1rem;
-    background-color: rgb(255, 0, 179);
+    background-color: rgb(228, 6, 172);
     height: 20rem;
     flex-grow: 1;
     flex-basis: calc(33% -6rem);
     }
     
     .cartao__conteudo {
-        background-color: var(--card-front-color);
+      background-color: var(--card-from-color);
         text-align: center;
         height: 100%;
         transform-style: preserve-3d;
-        transition: transform 3000ms ease-in-out;
+        transition: transforme 3000ms ease-in-out;
     }
     
     .cartao__conteudo h3 {
-        background-color: 
-        
-        rgb(56, 236, 197);
+        background-color: rgba(255, 99, 71, 0.034);
         text-align: left;
         padding: 0.5rem;
         position: absolute;
@@ -41,7 +39,7 @@ body{
     
     footer {
         background-color: black;
-        color: white;
+        color: rgb(255, 255, 255);
         position: fixed;
         bottom: 0;
         width: 100%;
